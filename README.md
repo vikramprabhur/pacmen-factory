@@ -7,11 +7,14 @@
   - Pacmen will begin moving once you click on the Start button.
   - The Pacmen will move across the screen and will change sirection when they hit the page width limits.
 
-##
+## Launch Page:
 
-## Launch Page
+  - [(https://vikramprabhur.github.io/pacmen-factory/index.html)]
 
-- [(https://vikramprabhur.github.io/pacmen-factory/index.html)]
+## Future Improvements:
+  - My next iteration would be to allow the user to guide the Pacman to eat all the dots placed on the screen.
+  - The following iteration would be a more complex version with the game board and the specified paths through which the Pacman can travel to find and eat dots.
+  - The final iteration would include Ghosts chasing Pacman while he navigates the board to eat dots. 
 
 ## License:
 - MIT License
