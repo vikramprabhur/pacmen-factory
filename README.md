@@ -11,7 +11,7 @@
 
 ## Launch Page
 
-- [/assets/index.html]
+- [(https://vikramprabhur.github.io/pacmen-factory/index.html)]
 
 ## License:
 - MIT License
