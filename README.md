@@ -43,4 +43,4 @@ SOFTWARE.
 
 ### Contact:
 - Vikram R. Prabhu
-  vikram@vsprabhu.com
+- Email: vikram@vsprabhu.com
