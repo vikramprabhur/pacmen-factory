@@ -9,7 +9,7 @@
 
 ## Launch Page:
 
-  - [(https://vikramprabhur.github.io/pacmen-factory/index.html)]
+  - [(https://vikramprabhur.github.io/pacmen-factory/index.html)] 
 
 ## Future Improvements:
   - My next iteration would be to allow the user to guide the Pacman to eat all the dots placed on the screen.
