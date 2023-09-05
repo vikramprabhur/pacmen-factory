@@ -1,0 +1,34 @@
+
+.button {
+    z-index: 5;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    font-size: 2em;
+    padding: 2px;
+    background: transparent;
+    background-color: brown;
+  }
+
+  .button-makeone {
+    z-index: 5;
+    position: absolute;
+    right: 150px;
+    bottom: 30px;
+    font-size: 2em;
+    padding: 2px;
+    background: transparent;
+    background-color: brown;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 5em;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: blue;
+    padding: 30px;
+  }
+
+  body {
+    background-color: black;
+  }
